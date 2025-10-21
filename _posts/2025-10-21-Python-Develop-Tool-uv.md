@@ -5,7 +5,7 @@ description: >-
 author: YongboStudio
 date: 2025-10-21 15:10:00 +0800
 categories: [Python, Develop]
-tags: [Python Develop]
+tags: [Python, Develop]
 pin: true
 media_subpath: ''
 ---
